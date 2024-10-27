@@ -75,7 +75,9 @@ Bilo da ste administrator baze podataka, programer ili IT stručnjak zabrinut za
 
 <a href="https://www.postgresql.eu/events/pgconfeu2024/sessions/session/5554/slides/555/PostgreSQL_Security_PgConf2024_Export.pdf" target="_blank">slajdovi</a>
 
-#### The Wire Protocol Trenutni PostgreSQL protokol veze uveden je u verziji 7.3, 2002. godine. Od tada su dodane mnoge nove značajke u pozadinu, no protokol je uglavnom ostao nepromijenjen. Osim PostgreSQL-a, napisane su brojne biblioteke klijenata i posrednici koji koriste taj protokol, pa čak i druge implementacije sustava za upravljanje bazama podataka koje žele biti kompatibilne s PostgreSQL klijentima.
+#### The Wire Protocol 
+
+Trenutni PostgreSQL protokol veze uveden je u verziji 7.3, 2002. godine. Od tada su dodane mnoge nove značajke u pozadinu, no protokol je uglavnom ostao nepromijenjen. Osim PostgreSQL-a, napisane su brojne biblioteke klijenata i posrednici koji koriste taj protokol, pa čak i druge implementacije sustava za upravljanje bazama podataka koje žele biti kompatibilne s PostgreSQL klijentima.
 
 Ovo je obilazak protokola koji počinje od osnova autentifikacije i izvođenja upita do COPY protokola, značajki replikacije i zamišljenog budućeg razvoja.
 
